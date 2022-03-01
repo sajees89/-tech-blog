@@ -50,13 +50,14 @@ THEN I am automatically signed out of the site
 
 ## Website Link
 
+Check out the deployed app: 
+
 
 
 ## Screenshot
 
 
 
-## Built With
-
 
 ## Contact
+[Sajees Jeya on GitHub](http://github.com/sajees89)
