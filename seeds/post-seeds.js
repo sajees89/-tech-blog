@@ -76,6 +76,31 @@ const postdata = [
     post_content: 'https://gmpg.org/lorem.jpg',
     user_id: 3
   },
+  {
+    title: 'Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.',
+    post_content: 'https://paginegialle.it/mattis/egestas.jsp',
+    user_id: 7
+  },
+  {
+    title: 'In hac habitasse platea dictumst.',
+    post_content: 'http://wikia.com/turpis/eget.jpg',
+    user_id: 6
+  },
+  {
+    title: 'Etiam justo.',
+    post_content: 'https://shareasale.com/quis.json',
+    user_id: 4
+  },
+  {
+    title: 'Nulla ut erat id mauris vulputate elementum.',
+    post_content: 'http://java.com/diam/neque/vestibulum/eget/vulputate/ut/ultrices.png',
+    user_id: 6
+  },
+  {
+    title: 'Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.',
+    post_content: 'https://java.com/at/nibh/in.png',
+    user_id: 7
+  }
 ];
 
 const seedPosts = () => Post.bulkCreate(postdata);
