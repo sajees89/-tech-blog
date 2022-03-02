@@ -55,7 +55,7 @@ Check out the deployed app: https://salty-beach-61017.herokuapp.com/
 
 ## Screenshot
 
-![screenshot](https://https://github.com/sajees89/tech-blog/blob/main/public/Tech%20SS.png)
+![screenshot](https://github.com/sajees89/tech-blog/blob/main/public/Tech%20SS.png)
 
 ## Contact
 [Sajees Jeya on GitHub](http://github.com/sajees89)
