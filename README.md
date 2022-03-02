@@ -2,14 +2,10 @@
 
 ## Description
 
-This week's challenge 
-
-
-
-
-
-
-
+This week's challenge was to build an blog where developes can publish their blog posts 
+and comment on other developer posts as well The app follows the MVC paradigm in its architectural structure, 
+using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
+Also deployed to Heroku. 
 
 ## User Story
 
@@ -55,13 +51,12 @@ THEN I am automatically signed out of the site
 
 ## Website Link
 
-Check out the deployed app: 
-
+Check out the deployed app: https://salty-beach-61017.herokuapp.com/
 
 
 ## Screenshot
 
-
+![screenshot](https://)
 
 
 ## Contact
