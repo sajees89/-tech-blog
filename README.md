@@ -51,7 +51,7 @@ THEN I am automatically signed out of the site
 
 ## Website Link
 
-Check out the deployed app: https://salty-beach-61017.herokuapp.com/
+Check out the deployed app: https://salty-beach-61017.herokuapp.com
 
 ## Screenshot
 
